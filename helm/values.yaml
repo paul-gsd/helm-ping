@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/paul-gsd/helm-ping
+  repository: ghcr.io/paul-gsd/helm-ping/helm-ping
   pullPolicy: IfNotPresent
   tag: "latest"
 
